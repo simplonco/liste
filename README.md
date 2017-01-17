@@ -1,6 +1,7 @@
 # liste
 
-* Daniel
+* Adams
+* Daniels
 * David
 * Faustino
 * Ghunbot
