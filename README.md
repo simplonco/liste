@@ -1,8 +1,7 @@
 # liste
 
-<<<<<<< HEAD
-Fausto
-Martin
-Osman
-Paul
-Yvan
+* Fausto
+* Martin
+* Osman
+* Paul
+* Yvan
