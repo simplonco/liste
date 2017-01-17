@@ -3,7 +3,6 @@
 * Adams
 * Daniels
 * David
-* David
 * Faustino
 * Geoffrey
 * Ghunbot
