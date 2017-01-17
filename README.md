@@ -6,6 +6,7 @@
 * David
 * Faustino
 * Ghunbot
+* Geoffrey
 * Joackim
 * Martin
 * Osman
