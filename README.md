@@ -1,5 +1,4 @@
 # liste
-# liste
 * David
 * Faustino
 * Joackim
