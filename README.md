@@ -1,11 +1,13 @@
 # liste
 
-<<<<<<< HEAD
-
-Daniel
-David Bois du sprite
-Fausto
-Martin
-Osman
-Paul
-Yvan
+* Daniel
+* David
+* Faustino
+* Ghunbot
+* Joackim
+* Martin
+* Osman
+* Paul
+* Paljor
+* Yvan
+* Zaza
