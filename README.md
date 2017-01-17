@@ -1,5 +1,5 @@
 # liste
 
-* Adams
 
+* Adams
 * Yvan
