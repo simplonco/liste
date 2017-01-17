@@ -1,5 +1,6 @@
 # liste
 
+<<<<<<< HEAD
 HEAD
 David !!!
 faustino
