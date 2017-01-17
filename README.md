@@ -1,6 +1,5 @@
 # liste
 
-<<<<<<< HEAD
 HEAD
 David !!!
 faustino
@@ -15,3 +14,4 @@ David !!! <3
 ion
 ghunbot
 yop
+Osman
