@@ -1,5 +1,6 @@
 # liste
 
+<<<<<<< HEAD
 Fausto
 Martin
 Osman
