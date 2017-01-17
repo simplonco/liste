@@ -1,3 +1,3 @@
 # liste
 
-* Ghunbot
+/* Ghunbot
