@@ -1,12 +1,7 @@
 # liste
-<<<<<<< HEAD
-David !!!
-=======
 
-Nitram
+David !!! <3
+#Nitram <3
 ion
 ghunbot
 yop
->>>>>>> 143854acb75c7f46678ed356f9c77dd420cf30a4
-nitram
-ion
