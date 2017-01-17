@@ -1,6 +1,7 @@
 # liste
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 HEAD
 David !!!
 faustino
@@ -18,5 +19,9 @@ yop
 Osman
 ok
 =======
+=======
+* Paul
+* Martin
+* Osman
+>>>>>>> fec0b78451afcbcc7e632aaf0dda894c643b3ab9
 * Yvan
->>>>>>> baf3ce8d626eb638c067a472d8334635f4edad5d
