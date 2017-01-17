@@ -1,7 +1,11 @@
 # liste
 
-* Fausto
+* David
+* Faustino
+* Ghunbot
+* Joackim
 * Martin
 * Osman
 * Paul
 * Yvan
+* Zaza
