@@ -1,9 +1,9 @@
 # liste
 
-
 * Joackim
 * Martin
 * Mathieu
-* Osman
-* Paul
-* Yvan
+* Faustino
+* David
+* Joackim
+* Martin
