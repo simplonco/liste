@@ -1,16 +1,17 @@
-# liste
+#Liste
 
 * Adams
 * Daniels
 * David
 * David
 * Faustino
-* Ghunbot
 * Geoffrey
+* Ghunbot
 * Joackim
 * Martin
 * Osman
-* Paul
 * Paljor
+* Paul
 * Yvan
 * Zaza
+
